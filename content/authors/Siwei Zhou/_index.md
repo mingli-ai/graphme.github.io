@@ -22,7 +22,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #研究兴趣
 interests:
   - Graph Deep Learning
-  - Multimoadl Data Mining
+  - Multimodal Data Mining
   - Intelligent Education
 #教育经历
 education:

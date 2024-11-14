@@ -21,16 +21,17 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 #研究兴趣
 interests:
-  - Graph Deep Learning
-  - Social Recommendation
+  - AR-based Writing Learning
+  - VR-based Writing Learning
+  - Self-regulated Learning
 #教育经历
 education:
   courses:
     # - course: M.S in Educational Technology
     #   institution: Zhejiang Normal University
-    #   year: 2023
-    - course: B.S in Software Engineering
-      institution: East China University of Technology
+    #   year: 2022
+    - course: B.S in Educational Technology
+      institution: Guangdong University of Petrochemical Technology
       year: 2022
     # - course: BSc in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
