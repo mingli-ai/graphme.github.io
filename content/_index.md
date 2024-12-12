@@ -61,7 +61,16 @@ sections:
       subtitle: 
       text: |
             <details>
+            <summary><span style="font-size: 20px;"><span style="color:red"> <b>[AAAI ×3]: </b> </span>Three papers are accepted at AAAI-25.&nbsp;&nbsp;&nbsp;Congratulations to Yongchun, Yi, Tingyi, and Yujie.</span> [<span style="color:red"> <b>Click for more Info.</b> </span>]</span></summary>
+            
+            * <div style="font-size: 20px;">M. Li, Y. Gu, Y. Wang, Y. Fang, Lu Bai, X. Zhuang, P. Lio, &nbsp;&nbsp;When hypergraph meets heterophily: New benchmark datasets and baseline.</div>
+            * <div style="font-size: 20px;">M. Li, Y. Fang, Y. Wang, H. Feng, Y. Gu, L. Bai, P. Lio, &nbsp;&nbsp;Deep hypergraph neural networks with tight framelets.</div>
+            * <div style="font-size: 20px;">T. Cai, Y. Jiang, M. Li, C. Huang, Y. Wang, Q. Huang, &nbsp;&nbsp;ML-GOOD: Towards multi-label graph out-of-distribution detection.</div>
             </details> 
+   
+              
+               
+
                 
 
 
