@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href="https://kellysylvia77.github.io/chinese/" style="color:#0000008A">Yi Wang</a>
+title: Yi Wang
 #名字
 # Full Name (for SEO)
 first_name: Yi
@@ -49,7 +49,7 @@ social:
     link: javascripts:;
   - icon: google-scholar
     icon_pack: ai
-    link: javascripts:;
+    link: https://kellysylvia77.github.io/chinese/
   - icon: github
     icon_pack: fab
     link: javascripts:;
