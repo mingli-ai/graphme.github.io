@@ -49,24 +49,12 @@ social:
     link: javascripts:;
   - icon: google-scholar
     icon_pack: ai
-    link: social:
-  - icon : university
-    icon_pack : fa
-    link : https://mingli-ai.github.io/
-  - icon: envelope
-    icon_pack: fas
-    link: 
-  - icon: google-scholar
-    icon_pack: ai
-    link: 
-  - icon: github
-    icon_pack: fab
-    link: https://mingli-ai.github.io/
+    link: javascripts:;
   - icon: github
     icon_pack: fab
     link: javascripts:;
 
-
+    
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
