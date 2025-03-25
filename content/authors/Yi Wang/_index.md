@@ -49,7 +49,7 @@ social:
     link: javascripts:;
   - icon: google-scholar
     icon_pack: ai
-    link: https://kellysylvia77.github.io/chinese/
+    link: javascripts:;
   - icon: github
     icon_pack: fab
     link: javascripts:;
