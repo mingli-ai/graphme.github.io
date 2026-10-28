@@ -3,7 +3,7 @@
 title: Xinxiang Wang
 # Full Name (for SEO)
 first_name: Xinxiang
-last_name: FWang
+last_name: EWang
 
 # Is this the primary user of the site?
 superuser: false

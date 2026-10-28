@@ -4,7 +4,7 @@ title: Ruiting Zhao
 #名字
 # Full Name (for SEO)
 first_name: Ruiting
-last_name: CZhao
+last_name: GZhao
 
 # Is this the primary user of the site?
 superuser: false

@@ -4,7 +4,7 @@ title: Xinru Shao
 #名字
 # Full Name (for SEO)
 first_name: Xinru
-last_name: CShao
+last_name: BShao
 
 # Is this the primary user of the site?
 superuser: false

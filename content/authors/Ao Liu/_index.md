@@ -4,7 +4,7 @@ title: Ao Liu
 #名字
 # Full Name (for SEO)
 first_name: Ao
-last_name: ELiu
+last_name: FLiu
 
 # Is this the primary user of the site?
 superuser: false

@@ -4,7 +4,7 @@ title: Yilin Wang
 #名字
 # Full Name (for SEO)
 first_name: Yilin
-last_name: EWang
+last_name: FWang
 
 # Is this the primary user of the site?
 superuser: false

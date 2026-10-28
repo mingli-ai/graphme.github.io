@@ -3,7 +3,7 @@
 title: Xinyi Li
 # Full Name (for SEO)
 first_name: Xinyi 
-last_name: CLi
+last_name: GLi
 
 # Is this the primary user of the site?
 superuser: false

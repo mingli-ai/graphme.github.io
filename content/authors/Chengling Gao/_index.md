@@ -4,7 +4,7 @@ title: Chengling Gao
 #名字
 # Full Name (for SEO)
 first_name: Chengling
-last_name: AGao
+last_name: BGao
 
 # Is this the primary user of the site?
 superuser: false

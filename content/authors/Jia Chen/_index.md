@@ -4,7 +4,7 @@ title: Jia Chen
 #名字
 # Full Name (for SEO)
 first_name: Jia
-last_name: EChen
+last_name: FChen
 
 # Is this the primary user of the site?
 superuser: false
