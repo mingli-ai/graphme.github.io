@@ -38,14 +38,11 @@ sections:
       text: |-
         | Name              | Degree | Year     |
         |-------------------|--------|----------|
-        | Yi Wang           | Ph.D.  | 2021–2025 |
-        | Jiandong Shi      | M.S.   | 2022–2025 |
-        | Caixia Li         | M.S.   | 2022–2025 |
-        | Xinxiang Wang     | M.S.   | 2022–2025 |
-        | Xiaoyi Yang       | M.S.   | 2022–2025 |
-        | Youlin Yang       | M.S.   | 2022–2025 |
-        | Shuangshuang Ding | M.S.   | 2022–2025 |
-        | Qianqin Liu       | M.S.   | 2022–2025 |
+        | Chengling Gao     | Ph.D.  | 2022–2026 |
+        | Yukang Cheng      | M.S.   | 2023–2026 |
+        | Yujie Fang        | M.S.   | 2023–2026 |
+        | Zihao Yan         | M.S.   | 2023–2026 |
+        | Zhanle Zhu        | M.S.   | 2023–2026 |
     design:
       columns: '1'
 ---

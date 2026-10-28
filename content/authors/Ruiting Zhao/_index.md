@@ -10,7 +10,7 @@ last_name: CZhao
 superuser: false
 #职位（研究生/博士生）后面是入学年份
 # Role/position
-role: M.S Student（09/2024-）
+role: PhD Student (09/2026-)<br/>
 #所属机构
 # Organizations/Affiliations
 organizations:
@@ -68,6 +68,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - MS Students
+  - PhD Students
 ---
 

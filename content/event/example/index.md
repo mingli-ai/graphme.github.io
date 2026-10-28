@@ -39,7 +39,7 @@ projects: []
 
 <!--more-->
 
-<h2>2025 Graduates</h2>
+<h2>2026 Graduates</h2>
 
 <style>
 .graduate-table {
@@ -89,51 +89,33 @@ projects: []
   </thead>
   <tbody>
     <tr>
-      <td>Yi Wang</td>
+      <td>Chengling Gao</td>
       <td>Ph.D.</td>
-      <td>2025</td>
-      <td>Postdoctoral Research at City University of Hong Kong</td>
+      <td>2026</td>
+      <td>Postdoctoral Research at University of Chinese Academy of Sciences</td>
     </tr>
     <tr>
-      <td>Jiandong Shi</td>
+      <td>Yukang Cheng</td>
       <td>M.S.</td>
-      <td>2025</td>
-      <td>Pursuing Ph.D. at East China Normal University</td>
-    </tr>
-    <tr>
-      <td>Caixia Li</td>
-      <td>M.S.</td>
-      <td>2025</td>
-      <td>Pursuing Ph.D. at East China Normal University</td>
-    </tr>
-    <tr>
-      <td>Xinxiang Wang</td>
-      <td>M.S.</td>
-      <td>2025</td>
-      <td>Pursuing Ph.D. at Zhe Jiang Normal University</td>
-    </tr>
-    <tr>
-      <td>Xiaoyi Yang</td>
-      <td>M.S.</td>
-      <td>2025</td>
-      <td>Pursuing Ph.D. at Dalian University of Technology</td>
-    </tr>
-    <tr>
-      <td>Youlin Yang</td>
-      <td>M.S.</td>
-      <td>2025</td>
+      <td>2026</td>
       <td>Employed</td>
     </tr>
     <tr>
-      <td>Shuangshuang Ding</td>
+      <td>Yujie Fang</td>
       <td>M.S.</td>
-      <td>2025</td>
+      <td>2026</td>
       <td>Employed</td>
     </tr>
     <tr>
-      <td>Qianqin Liu</td>
+      <td>Zihao Yan</td>
       <td>M.S.</td>
-      <td>2025</td>
+      <td>2026</td>
+      <td>Employed</td>
+    </tr>
+    <tr>
+      <td>Zhanle Zhu</td>
+      <td>M.S.</td>
+      <td>2026</td>
       <td>Employed</td>
     </tr>
   </tbody>

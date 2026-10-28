@@ -4,13 +4,13 @@ title: Chengling Gao
 #名字
 # Full Name (for SEO)
 first_name: Chengling
-last_name: BGao
+last_name: AGao
 
 # Is this the primary user of the site?
 superuser: false
 #职位（研究生/博士生）后面是入学年份
 # Role/position
-role: PhD Student (09/2022-)<br/>Co-supervised with Prof. <a href="https://www.scholat.com/cqhuang" style="color:#0000008A">Changqin Huang</a>
+role: Postdoctoral Fellow, University of Chinese Academy of Sciences
 #所属机构
 # Organizations/Affiliations
 organizations:
@@ -26,6 +26,9 @@ interests:
 #教育经历
 education:
   courses:
+    - course: Ph.D. in Computer Science and Technology
+      institution: Zhejiang Normal University
+      year: 2026
     - course: M.S in Applied Mathematics
       institution: China Jiliang University
       year: 2021
@@ -68,5 +71,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students 
+  - Postdoc 
 ---
