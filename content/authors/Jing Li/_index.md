@@ -4,7 +4,7 @@ title: Jing Li
 #名字
 # Full Name (for SEO)
 first_name: Jing
-last_name: ELi
+last_name: EZLi
 
 # Is this the primary user of the site?
 superuser: false
