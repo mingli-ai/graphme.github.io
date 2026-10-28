@@ -3,7 +3,7 @@
 title: Jiayi Mao
 # Full Name (for SEO)
 first_name: Jiayi
-last_name: CMao
+last_name: AMao
 
 # Is this the primary user of the site?
 superuser: false

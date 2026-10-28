@@ -3,7 +3,7 @@
 title: Xiaoxue Lu
 # Full Name (for SEO)
 first_name: Xiaoxue
-last_name: DLu
+last_name: BLu
 
 # Is this the primary user of the site?
 superuser: false

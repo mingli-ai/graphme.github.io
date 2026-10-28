@@ -3,7 +3,7 @@
 title: Sikai Liu
 # Full Name (for SEO)
 first_name: Sikai
-last_name: DLiu
+last_name: CLiu
 
 # Is this the primary user of the site?
 superuser: false

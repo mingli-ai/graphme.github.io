@@ -3,7 +3,7 @@
 title: Qiying Li
 # Full Name (for SEO)
 first_name: Qiying
-last_name: DLi
+last_name: BLi
 
 # Is this the primary user of the site?
 superuser: false

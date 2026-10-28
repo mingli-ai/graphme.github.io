@@ -3,7 +3,7 @@
 title: Haodi Li
 # Full Name (for SEO)
 first_name: Haodi
-last_name: CLi
+last_name: ALi
 
 # Is this the primary user of the site?
 superuser: false

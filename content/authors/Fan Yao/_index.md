@@ -3,7 +3,7 @@
 title: Fan Yao
 # Full Name (for SEO)
 first_name: Fan
-last_name: DYao
+last_name: CYao
 
 # Is this the primary user of the site?
 superuser: false

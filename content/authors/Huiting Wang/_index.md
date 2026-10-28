@@ -3,7 +3,7 @@
 title: Huiting Wang
 # Full Name (for SEO)
 first_name: Huiting 
-last_name: CWang
+last_name: AWang
 
 # Is this the primary user of the site?
 superuser: false

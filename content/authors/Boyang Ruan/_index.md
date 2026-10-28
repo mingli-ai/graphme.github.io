@@ -3,7 +3,7 @@
 title: Boyang Ruan
 # Full Name (for SEO)
 first_name: Boyang
-last_name: DRuan
+last_name: CRuan
 
 # Is this the primary user of the site?
 superuser: false
